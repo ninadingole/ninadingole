@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
+### Hi there 👋, I am Ninad
 
 - 🔭 I’m currently working on Serverless, Kotlin & React
 - 🖥 I write blogs at https://iamninad.com
