@@ -34,3 +34,5 @@
        src="https://github-readme-stats.vercel.app/api?username=ninadingole&show_icons=true&theme=tokyonight"
     />
 </p>
+
+![](https://komarev.com/ghpvc/?username=ninadingole&color=green)
