@@ -35,4 +35,4 @@
     />
 </p>
 
-![](https://komarev.com/ghpvc/?username=ninadingole&color=green)
+![](https://komarev.com/ghpvc/?username=ninadingole&color=blue)
