@@ -19,6 +19,10 @@
   <img width="50px" height="50px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png" alt="linked" />
 </a>
 
+<a href="https://medium.com/@iamninad">
+  <img width="50px" height="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fsocial-media-2210%2F24%2FMedium-512.png&f=1&nofb=1" alt="medium" />
+</a>
+
 ### Github Activity:
 
 <br/>
