@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=ninadingole&color=blue)
 [![](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2475798)](https://stackoverflow.com/users/2475798/neenad)
 
+![](./download.png)
 
 
-
-### Hey there 👋
 <a href="https://twitter.com/iamneenad">
   <img height="20px" src="https://github.com/get-icon/geticon/blob/master/icons/twitter.svg" alt="twitter" />
 </a>
@@ -23,7 +22,7 @@
 <br />
 <br />
 
-I'm [Neenad Ingole](https://iamninad.com), a passionate self-taught full stack developer and a freelancer from India. I love coding and exploring new programming languages and frameworks. I take great care in the experience, architecture, and code quality of the things I build.
+I'm a passionate self-taught full stack developer and a freelancer from India. I love coding and exploring new programming languages and frameworks. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. Many of the things that I have learned is through open source contribution and I love collaborating and knowledge sharing for the things I learn.
 
