@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ninadingole&color=blue)
 [![](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2475798)](https://stackoverflow.com/users/2475798/neenad)
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ninadingole)
+![](https://img.shields.io/github/sponsors/ninadingole?label=Sponsor&logo=GitHub)
 
 ![](./download.png)
 
@@ -68,16 +70,16 @@ Things I am currently working on
 <code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" /></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" /></code>
 
-<br /><br />
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+### ❤️ Sponsers 
+if you like what i do, maybe consider buying me a coffee/tea or sponser me on [Github](https://github.com/sponsors/ninadingole) 🥺👉👈
 <br />
 
 <a href="https://www.buymeacoffee.com/neenadingole" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" ></a>
 
+
 ### 🏂 Github Activity:
 
 <br/>
-
 
  <img
     align="center"
