@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=ninadingole&color=blue)
-[![](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2475798)](https://stackoverflow.com/users/2475798/neenad)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ninadingole)
 ![](https://img.shields.io/github/sponsors/ninadingole?label=Sponsor&logo=GitHub)
 
@@ -92,4 +91,7 @@ if you like what i do, maybe consider buying me a coffee/tea or sponser me on [G
   />
 
 
+### 👨🏻‍💻 StackOverflow
+
+[![](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2475798)](https://stackoverflow.com/users/2475798/neenad)
 
